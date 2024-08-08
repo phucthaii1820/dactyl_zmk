@@ -30,7 +30,7 @@
 &kp LEFT_SHIFT  &kp Z   &kp X      &kp C     &kp V             &kp B        &kp N      &kp M          &kp COMMA  &kp DOT    &kp FSLH  &kp RIGHT_SHIFT
                         &kp MINUS  &kp LBKT                                                           &kp RBKT   &kp EQUAL
                                              &kp LEFT_COMMAND                          &kp BACKSPACE
-                                             &kp LEFT_ALT      &kp SPACE    &kp ENTER  &kp RIGHT_ALT
+                                             &kp ENTER         &kp SPACE    &kp ENTER  &kp RIGHT_ALT
                                              &kp LC(LEFT)      &mo 1        &mo 2      &kp LC(RIGHT)
             >;
         };
