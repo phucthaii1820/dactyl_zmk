@@ -3,7 +3,7 @@ id: dactyl_manuform
 name: Dactyl_manuform
 type: shield
 url: https://github.com/doannc2212/dactyl_zmk.git
-requires: [nice_nano]
+requires: [nice_nano//zmk]
 features:
   - keys
 siblings:
